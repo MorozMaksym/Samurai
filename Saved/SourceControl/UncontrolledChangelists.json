@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/UE5/MyProject2/Content/ThirdPerson/Blueprints/TutorialPhysicalAnimationComp.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/UE5/MyProject2/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/Input/Actions/IA_FightMode.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/AnimationTests/Paired_CounterPunch_PalmStrike_Att_UE5.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/AnimationTests/Paired_CounterPunch_PalmStrike_Att_UE5_Montage.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/AnimationTests/MC_InBattle_Move_Forvard.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/AnimationTests/Paired_CounterPunch_PalmStrike_Att.uasset",
+				"F:/UE5/MyProject2/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset",
+				"F:/UE5/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6H/QOTMHTZ2O0145OROSLRAQ3.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/AnimationTests/MC_InBattle_Attack_Light.uasset",
+				"F:/UE5/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8B/0D1NC0NSUAXIVFQLAEC8QA.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/AnimationTests/MC_InBattle_Attack_Light_Montage.uasset",
+				"F:/UE5/MyProject2/Content/Characters/Mannequins/Animations/SinTest.uasset",
+				"F:/UE5/MyProject2/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"F:/UE5/MyProject2/Content/Characters/Mannequins/Animations/animationPlayTimey.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/AnimationTests/Test_BS_outFight_movement.uasset",
+				"F:/UE5/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/E5/44I3H96G61278LYU5V1Y6L.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/AnimationTests/MC_InBattle_Move_Forvard_new.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/MC_InBattle_Move_Forvard.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/AnimationTests/MC_InBattle_Move_Forvard_Old.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/MC_InBattle_Attack_Light_AP.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/AnimationTests/MC_InBattle_Attack_Light_AP.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/MC_InBattle_Move_Forvard_new.uasset",
+				"F:/UE5/MyProject2/Content/NewFolder/TestAnimBlueprint.uasset",
+				"F:/UE5/MyProject2/Content/Paired_CounterPunch_PalmStrike_Att_UE5.uasset",
+				"F:/UE5/MyProject2/Content/ThirdPerson/Paired_CounterPunch_PalmStrike_Att_UE5.uasset",
+				"F:/UE5/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7N/U1FS6R7WPD3LGS7IUFR051.uasset"
+			]
+		}
+	]
+}
